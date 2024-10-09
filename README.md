@@ -2,7 +2,7 @@
 
 **`Aspiring Fullstack Software Engineer | Senior University Student`**
 
-Hey there! 👋 I'm an Information Systems student at Coastal Carolina University, diving deep into the world of tech. 💻 From crafting full-stack web apps to tinkering with system-level code, I love bringing ideas to life through programming. 🚀 JavaScript and Python are my go-to languages, but I'm always excited to add new tools to my coding toolkit. As a previous Teacher Assistant, I've discovered the joy of helping others grasp tricky concepts, and competitive coding has taught me to think quickly. 🏆 Whether it's building sleek user interfaces, integrating APIs, or optimizing performance, I'm all about creating software that makes a difference. 🌟 Always wanting to learn, I'm ready to take on whatever challenges the tech world throws my way. 
+Hey there! 👋 I'm an Information Systems student at Coastal Carolina University, diving deep into the world of tech. 💻 From crafting full-stack web apps to tinkering with system-level code, I love bringing ideas to life through programming. 🚀 JavaScript and Python are my go-to languages, but I'm always excited to add new tools to my coding toolkit. As a previous Teacher Assistant, I've discovered the joy of helping others grasp tricky concepts, and competitive coding has taught me to think quickly. 🏆 Whether it's building sleek user interfaces, integrating APIs, or optimizing performance, I'm all about creating software that makes a difference. Always wanting to learn, I'm ready to take on whatever challenges the tech world throws my way. 
 
 <p align="left">
    <!-- GitHub Followers -->
