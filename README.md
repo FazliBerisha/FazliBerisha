@@ -57,7 +57,7 @@ I'm an Information Systems student at Coastal Carolina University, specializing 
 ### 🚀 Latest Projects
 
 <p align="center">
-   <strong>Tool Lending Library (Ongoing)</strong><br />
+   <strong>Tool Lending Library</strong><br />
    A project aimed at facilitating community tool sharing and lending.<br /><br />
    <strong>Anibot (Ongoing)</strong><br />
    An interactive chatbot designed for assisting with anime recommendations.<br /><br />
