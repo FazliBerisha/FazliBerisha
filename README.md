@@ -14,7 +14,7 @@ I'm an Information Systems student at Coastal Carolina University, specializing 
       <img alt="GitHub stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/FazliBerisha?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
    <!-- LinkedIn Profile -->
-   <a href="https://www.linkedin.com/in/fazli-berisha-709718236/">
+   <a href="https://www.linkedin.com/in/fazliberisha">
       <img alt="LinkedIn Profile" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/></a>
 
    <!-- Email -->
@@ -57,6 +57,8 @@ I'm an Information Systems student at Coastal Carolina University, specializing 
 ### 🚀 Latest Projects
 
 <p align="center">
+    <strong>Svarra AI</strong><br />
+  Developing an AI chatbot SaaS platform enabling businesses to create custom conversational agents using React, TypeScript, and Node.js/Express. Built secure backend APIs with MongoDB and JWT, integrating Claude AI for real-time intelligent conversations. Implemented scheduling, document analysis, and analytics via Google Calendar, Stripe, and SendGrid.<br /><br />
    <strong>Two Brothers Powerwashing</strong><br />
   Built and deployed a fully responsive business website using Next.js and Tailwind CSS, improving performance by 40% with optimized image handling and CI/CD via Vercel. Integrated         validated contact and booking forms, an interactive gallery, and SEO best practices to improve user engagement and search visibility. Followed accessibility and cross-browser             compatibility standards for consistent experience across platforms.<br /><br />
    <strong>Tool Lending Library</strong><br />
