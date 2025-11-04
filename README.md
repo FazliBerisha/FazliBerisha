@@ -61,8 +61,6 @@ I'm an Information Systems student at Coastal Carolina University, specializing 
   Developing an AI chatbot SaaS platform enabling businesses to create custom conversational agents using React, TypeScript, and Node.js/Express. Built secure backend APIs with MongoDB and JWT, integrating Claude AI for real-time intelligent conversations. Implemented scheduling, document analysis, and analytics via Google Calendar, Stripe, and SendGrid.<br /><br />
    <strong>Two Brothers Powerwashing</strong><br />
   Built and deployed a fully responsive business website using Next.js and Tailwind CSS, improving performance by 40% with optimized image handling and CI/CD via Vercel. Integrated         validated contact and booking forms, an interactive gallery, and SEO best practices to improve user engagement and search visibility. Followed accessibility and cross-browser             compatibility standards for consistent experience across platforms.<br /><br />
-   <strong>Tool Lending Library</strong><br />
-   A project aimed at facilitating community tool sharing and lending.<br /><br />
 </p>
 
 #
